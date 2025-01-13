@@ -12,9 +12,8 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "CarePulse",
-  description:
-    "A healthcare patient management System designed to streamline patient registration, appointment scheduling, and medical records management for healthcare providers.",
+  title: "Saude Facil",
+  description: "Aplicação para gerciamento de Medicos em hospitais.",
   icons: {
     icon: "/assets/icons/logo-icon.svg",
   },
